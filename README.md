@@ -14,3 +14,5 @@ This repository contains two folders:
     
     -   `data.xlsx`: A table with computed values for each user across the four experiments.
     -   `VAS_results.xlsx`: Reports answers provided by participants in the post-experiment questionnaire.
+    -   `latencyAndDuration.xlsx`: A table with computed values for each user across the four experiments regarding the latency and HBR duration.
+
