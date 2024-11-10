@@ -1,4 +1,4 @@
-# How Much Do We Trust Robots? Quantifying the Sense Of Control Through the Hand Blink Reflex in Human-Robot Interaction
+#Quantifying the Sense Of Control Through the Hand Blink Reflex in Human-Robot Interaction
 Tommaso Lisini Baldi, Bernardo Brogi, Alessandro Giannotta, Gionata Salvietti, Domenico Prattichizzo, and Simone Rossi
 
 
